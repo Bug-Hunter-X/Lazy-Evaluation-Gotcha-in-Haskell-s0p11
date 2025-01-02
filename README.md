@@ -1,0 +1,2 @@
+# Haskell Lazy Evaluation Bug
+This repository demonstrates a common issue encountered when working with Haskell's lazy evaluation.  The `bug.hs` file contains code that showcases this issue, while `bugSolution.hs` provides a corrected version.
